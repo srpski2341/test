@@ -1,5 +1,5 @@
 module.exports = {
-    'token': 'MTI0NTcxMjg0NjM0ODc0Njc2Mg.GiRjwk.hfd8l9TonXnvH7TeI0drA3_PKAUlubo840BLzs', // Your bot token, activate all bot intents in discord developer portal.
+    'token': 'MTI0NTcxMjg0NjM0ODc0Njc2Mg.GSUWhY.Ut8jv9_kRuNqkXJ-0O6JrnJdA5mu_qnBUKHxZA', // Your bot token, activate all bot intents in discord developer portal.
     'clientid': '1245712846348746762', // Your discord bot id.
     'guildid': '1245713073629560912', // Id of a private server to load the bot's slash commands.
     'ownerid': ['1238144753217044602'], // Add discord ids to the array to access the commands.
